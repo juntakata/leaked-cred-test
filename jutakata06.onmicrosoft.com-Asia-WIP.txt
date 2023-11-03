@@ -1,4 +1,4 @@
-"AadClientId": "1a02dd36-8a87-4ab8-9193-bdda7f3a9906",
-"AadSecret": "u5U8Q~4muXo4u5-oG9eNZqjg-3mJcbbSuJ0.3cI0",
-"AadTenantDomain": "jutakata10.onmicrosoft.com",
-"AadTenantId": "2501a000-356d-467e-b519-845c0be827f9",
+"AadClientId": "dd39af5c-c47d-43a9-882b-31dc41ea76a5",
+"AadSecret": "zV88Q~wNccbzOYyc5UYv4o1vb6y-thJsh3Wfectv",
+"AadTenantDomain": "jutakata06.onmicrosoft.com",
+"AadTenantId": "fbf7d4e8-3961-408c-85a1-d46d6f08cd51",
