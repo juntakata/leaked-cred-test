@@ -1,0 +1,4 @@
+"AadClientId": "dd39af5c-c47d-43a9-882b-31dc41ea76a5",
+"AadSecret": "._H8Q~rU.yziSkLikemkikwuGBriM_gfUXssEcHF",
+"AadTenantDomain": "jutakata06.onmicrosoft.com",
+"AadTenantId": "fbf7d4e8-3961-408c-85a1-d46d6f08cd51",
